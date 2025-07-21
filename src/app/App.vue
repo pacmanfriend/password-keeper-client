@@ -3,6 +3,6 @@
 </script>
 
 <template>
-<h1>HELLO PASSWORD KEEPER</h1>
+  <h1>HELLO PASSWORD KEEPER</h1>
 </template>
 
